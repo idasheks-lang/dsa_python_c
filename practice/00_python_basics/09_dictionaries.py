@@ -170,7 +170,6 @@ def main():
     print("\n--- NESTED DICTIONARY ---")
     nested_dictionary()
 
-# count words in dict
 
 if __name__ == "__main__":
     main()
